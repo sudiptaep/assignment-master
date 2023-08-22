@@ -1,4 +1,4 @@
-# Angular 14 User Info Assignment project: CRUD with Rest API
+## Angular 14 User Info Assignment project: CRUD with Rest API
 
 Build an Angular 14 CRUD App example to consume Rest APIs, display, remove user info data.
 
